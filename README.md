@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SubhamRaul
 - 👀 I’m interested in watching anime
-- 🌱 I’m currently learning C
+- 🌱 I’m currently learning DSA,Web Development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me subhamraul52@gmail.com
 
