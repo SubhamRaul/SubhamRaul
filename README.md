@@ -18,9 +18,6 @@ Experienced in C++, JavaScript, React, and backend development. Strong problem-s
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-<img src="https://raw.githubusercontent.com/SubhamRaul/SubhamRaul/output/snake.svg" alt="Snake animation" />
-
 ---
 [![](https://visitcount.itsvg.in/api?id=SubhamRaul&icon=0&color=0)](https://visitcount.itsvg.in)
 
